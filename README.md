@@ -1,1 +1,1 @@
-# Uber-like-Ride-Hailing-app
+# Amazon-like-Ecommerce-app
